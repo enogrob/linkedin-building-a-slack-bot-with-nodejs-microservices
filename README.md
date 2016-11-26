@@ -3,7 +3,7 @@ Roberto Nogueira
 BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
-# LinkedIn project
+# LinkedIn Building a Slack Bot with Node.js Microservices
 
 ![coursera image](images/linkedin.png)
 
@@ -11,27 +11,27 @@ Solution Integrator Experienced - Certified by Ericsson
 
 Learn everything you need to about the subject of this `LinkedIn` project.
 
-[Homepage](https://linkedin.com)
+[Homepage](https://www.linkedin.com/learning/building-a-slack-bot-with-node-js-microservices/)
 
 ## Topics
 ```
 Contents
 
 Introduction
-[ ] Welcome 29s
-[ ] What you should know 51s
-[ ] Working with the exercises (In progress) 57s
+[x] Welcome 29s
+[x] What you should know 51s
+[x] Working with the exercises (In progress) 57s
 
 1. Get Started with Microservices in Slack
-[ ] What we are going to build 2m 21s
-[ ] Why use microservices? 3m 46s
-[ ] Explore the Slack APIs: Real Time Messaging and WebSockets 2m 16s
-[ ] Sketch out the Slack bot architecture 1m 11s
+[x] What we are going to build 2m 21s
+[x] Why use microservices? 3m 46s
+[x] Explore the Slack APIs: Real Time Messaging and WebSockets 2m 16s
+[x] Sketch out the Slack bot architecture 1m 11s
 
 2. Create Our Slack Bot
-[ ] Set up our project 8m 57s
-[ ] Choose modules versus "from scratch" 1m 57s
-[ ] Save Choose modules versus "from scratch"
+[x] Set up our project 8m 57s
+[x] Choose modules versus "from scratch" 1m 57s
+[x] Save Choose modules versus "from scratch"
 [ ] Create our Iris bot user 1m 47s
 [ ] Save Create our Iris bot user
 [ ] Connect to Slack 12m 32s
